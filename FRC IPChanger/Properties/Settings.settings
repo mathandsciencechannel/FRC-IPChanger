@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FRC_IPChanger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="team1ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.4.94.5</Value>
+    </Setting>
+    <Setting Name="team2ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.70.5</Value>
+    </Setting>
+    <Setting Name="team3ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.14.5</Value>
+    </Setting>
+    <Setting Name="team1sub" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.0</Value>
+    </Setting>
+    <Setting Name="team2sub" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.0</Value>
+    </Setting>
+    <Setting Name="team3sub" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.0</Value>
+    </Setting>
+    <Setting Name="team1gat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.4.94.1</Value>
+    </Setting>
+    <Setting Name="team2gat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.70.1</Value>
+    </Setting>
+    <Setting Name="team3gat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.14.1</Value>
+    </Setting>
+    <Setting Name="team1name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">494</Value>
+    </Setting>
+    <Setting Name="team2name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="team3name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Skippy-JR</Value>
+    </Setting>
+    <Setting Name="adapterListLimit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
