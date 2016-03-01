@@ -66,7 +66,7 @@
             this.team1Button.Name = "team1Button";
             this.team1Button.Size = new System.Drawing.Size(193, 85);
             this.team1Button.TabIndex = 3;
-            this.team1Button.Text = "button1";
+            this.team1Button.Text = "Team 1";
             this.team1Button.UseVisualStyleBackColor = false;
             this.team1Button.Click += new System.EventHandler(this.team1Button_Click);
             // 
@@ -78,7 +78,7 @@
             this.team3Button.Name = "team3Button";
             this.team3Button.Size = new System.Drawing.Size(193, 85);
             this.team3Button.TabIndex = 4;
-            this.team3Button.Text = "button1";
+            this.team3Button.Text = "Team 3";
             this.team3Button.UseVisualStyleBackColor = false;
             this.team3Button.Click += new System.EventHandler(this.team3Button_Click);
             // 
@@ -90,7 +90,7 @@
             this.team2Button.Name = "team2Button";
             this.team2Button.Size = new System.Drawing.Size(193, 85);
             this.team2Button.TabIndex = 5;
-            this.team2Button.Text = "button1";
+            this.team2Button.Text = "Team 2";
             this.team2Button.UseVisualStyleBackColor = false;
             this.team2Button.Click += new System.EventHandler(this.team2Button_Click);
             // 
